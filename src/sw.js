@@ -1,8 +1,7 @@
-const cacheName = "2026-08-10 00:00";
+const cacheName = "2026-08-17 00:00";
 const urlsToCache = [
   "/celltone/index.js",
   "/celltone/favicon/favicon.svg",
-  "https://marmooo.github.io/midi-player/midi-player-icons.woff2",
   "https://soundfonts.pages.dev/GeneralUser_GS_v1.471/000.sf3",
   "https://soundfonts.pages.dev/GeneralUser_GS_v1.471/128.sf3",
 ];
