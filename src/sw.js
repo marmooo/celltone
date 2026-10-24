@@ -1,4 +1,4 @@
-const cacheName = "2026-10-16 00:00";
+const cacheName = "2026-10-24 00:00";
 const urlsToCache = [
   "/celltone/index.js",
   "/celltone/favicon/favicon.svg",
